@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Guilherme 🙂
 
 - 🔭 Hoje eu trabalho com Front-End Mobile
-- 🌱 Estou aprendendo Kotlin
+- 🌱 Estou aprendendo Dart
 - 📫 Contato: guilhermemachado.dev@gmail.com
 - 😄 Pronomes: Ele/He
 
