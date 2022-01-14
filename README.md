@@ -3,7 +3,6 @@
 - 🔭 Hoje eu trabalho com Front-End Mobile
 - 🌱 Estou aprendendo Dart & React.Js
 - 📫 Contato: guilhermemachado.dev@gmail.com
-- 😄 Pronomes: Ele/He
 
 <div align="center">
   <a href="https://github.com/guilherme-CMachado">
