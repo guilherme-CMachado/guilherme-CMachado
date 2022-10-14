@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Guilherme 🙂
 
 - 🔭 Hoje eu trabalho com Front-End Mobile
-- 🌱 Estou aprendendo Dart & React.Js
+- 🌱 Estou aprendendo Dart & Flutter
 - 📫 Contato: guilhermemachado.dev@gmail.com
 
 <div align="center">
