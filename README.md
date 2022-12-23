@@ -1,8 +1,8 @@
-### Opa! Eu sou o Guilherme 🙂
+### Hey! I'm Guilherme 🙂
 
-- 🔭 Hoje eu trabalho com Front-End Mobile
-- 🌱 Estou aprendendo Dart & Flutter
-- 📫 Contato: guilhermemachado.dev@gmail.com
+- 🔭 I work as a Front-End mobile developer
+- 🌱 My programming language is Dart and my favorite framework is Flutter
+- 📫 Contact: guilhermemachado.dev@gmail.com
 
 <div align="center">
   <a href="https://github.com/guilherme-CMachado">
