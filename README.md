@@ -1,6 +1,6 @@
 ### Hey! I'm Guilherme 🙂
 
-- 🔭 I work as a Front-End mobile developer
+- 🔭 I work as a mobile developer
 - 🌱 My programming language is Dart and my favorite framework is Flutter
 - 📫 Contact: guilhermemachado.dev@gmail.com
 
