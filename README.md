@@ -1,6 +1,6 @@
 **Guilherme Machado**  
 Flutter Developer | 4+ Years of Experience | Remote-first | Mobile Architecture | Firebase Expert  
-📍 Contagem, MG, Brazil (Open to Remote & Visa Sponsorship)  
+📍 Contagem, MG, Brazil (Open to Remote)  
 📞 +55 31 99722-5183 | ✉️ guilhermemachado.dev@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/guilherme-cmachado)
 
