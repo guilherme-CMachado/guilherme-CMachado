@@ -1,69 +1,42 @@
-**Guilherme Machado**  
-Flutter Developer | 4+ Years of Experience | Remote-first | Mobile Architecture | Firebase Expert  
-📍 Contagem, MG, Brazil (Open to Remote)  
-📞 +55 31 99722-5183 | ✉️ guilhermemachado.dev@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/guilherme-cmachado)
+# Hi there, I'm Guilherme Machado 👋 
+### Technical Product Lead & Systems Engineer | Ex-Senior Mobile Engineer
 
----
-🧭 **Professional Summary**
+I bridge the gap between **complex system architectures**, **user-centric product design**, and **engineering execution**. With 5+ years in software development—leading mobile engineering teams, defining API contracts, and productizing internal practices—I focus on turning technical complexity into scalable, high-impact products.
 
-Passionate and results-driven Flutter Developer with over 4 years of experience building high-performance cross-platform mobile applications. Proven success leading engineering teams, migrating complex architectures (MobX, GetX → BLoC), and delivering scalable and secure solutions for e-commerce, healthcare, and B2B sectors. Fluent in English (C1) and experienced in Agile remote teams across Brazil and the US. Open to relocation or remote roles with global impact.
-
----
-
-🛠️ **Core Skills**
-
-**Expertise:** Flutter, Dart, Mobile Development, Clean Architecture, Firebase, Git, MobX, GetX, BLoC, RESTful APIs  
-**Tools & Platforms:** Jira, Scrum, Play Store, App Store, Firebase Crashlytics, 2FA Security, Freezed, CI/CD  
-**Additional Knowledge:** Kotlin, Swift, React Native, TypeScript, HTML/CSS, Angular
+📍 **Based in:** Contagem / Belo Horizonte, Brazil *(US/LATAM Timezone Aligned)*  
+💬 **Languages:** Portuguese (Native), English (EFSET C1 Advanced)  
+🎓 **Education:** Postgraduate in Project Management & Agile Methodologies (PUC Minas) | B.S. in Information Systems (UNA)
 
 ---
 
- 💼 **Professional Experience**
+### 🚀 What I Do (Engineering + Product)
 
- **Junior Flutter Developer**  
-📍 Raro Labs – Belo Horizonte, BR (On-site)  
-🗓️ August 2024 – Current  
-- Working in a client that is a FinTech for the US
-- Responsable for sections regarding the current money application
-- Responsable as well for creating unit testing and a clean code and MVVM pattern for the project
-
-**Senior Product Engineer**  
-📍 Ani – Tennessee, USA (Remote)  
-🗓️ Nov 2022 – May 2024  
-- Led Flutter team in redesigning project architecture and migrating from GetX to BLoC, improving performance by 40% and code readability by 70%.  
-- Integrated Firebase Crashlytics to ensure real-time monitoring and reduced debugging time by 60%.  
-- Defined clean architecture standards, enabling scalable growth across the dev team.
-
-**Mobile Software Engineer**  
-📍 CMOS Drake – Belo Horizonte, BR (Remote)  
-🗓️ Nov 2023 – Aug 2024  
-- Developed core features of an IoT-based healthcare app in Flutter.  
-- Implemented Freezed for state/data flow, enhancing team clarity and reducing code bugs.  
-- Facilitated team workflows via Jira, promoting Agile best practices.
-
-**Mobile Software Engineer**  
-📍 Framework Digital – Belo Horizonte, BR (Remote)  
-🗓️ Oct 2021 – Aug 2023  
-- Implemented PIX payment flow in an e-commerce app, increasing in-app purchases by 50%.  
-- Migrated MobX architecture to GetX in a HR app, simplifying state management.  
-- Designed and implemented 2FA login system, ensuring compliance with Brazil’s LGPD data law.
+* **Technical Product Management & Strategy:** Running product discovery, defining API contracts/data definitions, writing testable user stories/acceptance criteria, and aligning technical roadmaps with business outcomes.
+* **System & Platform Engineering:** Mobile architecture (Flutter, Dart, Swift, Kotlin), RESTful APIs, IoT/BLE integration protocols, and continuous deployment (CI/CD).
+* **DevEx & Platform Quality:** Productizing internal workflows, reducing developer onboarding time, overhauling documentation, and driving automated testing coverage as a core product metric.
+* **Agile Leadership:** Leading cross-functional squads (Devs, QA, Product) using Scrum & Kanban, managing technical debt, and facilitating sprint ceremonies.
 
 ---
 
- 🎓 **Education**
+### 🛠️ Tech & Product Stack
 
-**Bachelor of Information Systems**  
-Centro Universitário Una – Minas Gerais, Brazil  
-🗓️ Jan 2021 – Dec 2024
+Product & Governance : Product Discovery | Backlog Grooming | Jira | Confluence | Figma | SLAs
+Languages & Stacks   : Dart (Flutter) | Kotlin | Swift | C# (.NET) | TypeScript | SQL | Python
+Architecture & APIs  : System Design | RESTful APIs | Microservices | Webhooks | IoT (BLE) | BLoC / MobX
+DevOps & Quality     : CI/CD Pipelines | Git | Docker | Firebase | Play Store & App Store Publishing
+
+---
+
+### 📈 Key Highlights & Impact
+
+* 🏆 **Product Redesign & Usability:** Redesigned core telemetry workflows at Bysat, cutting operational friction from **15 to 6 steps**.
+* 📈 **Growth & Conversion:** Integrated PIX instant payments in B2B retail platforms (Framework Digital), driving an **18% increase in annual revenue**, and co-developed features for a US Fintech (Raro Labs) that boosted user adoption by **20%**.
+* 🩺 **IoT & Health Tech:** Designed an IoT communication solution for medical devices via Bluetooth (CMOS Drake), improving diagnostic accuracy by **7%**.
+* 🛠️ **DevEx & Quality:** Increased automated test coverage from 45% to 60% and slashed developer onboarding time by **13%**.
 
 ---
 
- 🌍 **Languages**
+### 📫 Connect with Me
 
-- Portuguese: Native  
-- English: Fluent (C1)  
-- Spanish: Intermediate
-- German: Basic
-
----
+* 💼 **LinkedIn:** [linkedin.com/in/guilherme-cmachado](https://www.linkedin.com/in/guilherme-cmachado)
+* ✉️ **Email:** [guilhermemachado.dev@gmail.com](mailto:guilhermemachado.dev@gmail.com)
