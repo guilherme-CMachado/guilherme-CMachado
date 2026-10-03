@@ -3,7 +3,7 @@
 
 I bridge the gap between **complex system architectures**, **user-centric product design**, and **engineering execution**. With 5+ years in software development—leading mobile engineering teams, defining API contracts, and productizing internal practices—I focus on turning technical complexity into scalable, high-impact products.
 
-📍 **Based in:** Contagem / Belo Horizonte, Brazil *(US/LATAM Timezone Aligned)*  
+📍 **Based in:** Contagem / Minas Gerais, Brazil *(US/LATAM Timezone Aligned)*  
 💬 **Languages:** Portuguese (Native), English (EFSET C1 Advanced)  
 🎓 **Education:** Postgraduate in Project Management & Agile Methodologies (PUC Minas) | B.S. in Information Systems (UNA)
 
